@@ -1,4 +1,4 @@
-Thanks for helping make GitHub safe for everyone.
+⁹Thanks for helping make GitHub safe for everyone.
 
 ## Security
 
